@@ -13,7 +13,7 @@ I build AI-powered products end to end, from the model and the API to the mobile
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**MediGuard**](https://github.com/Empress0205/medi-verify) | Photograph a medicine pack and check it against the TMDA register; suspicious products are reported to regulators through an admin dashboard | FastAPI · Gemini vision · PostgreSQL · Flutter · React · Docker |
-| [**Jihudumie Logistics**](https://github.com/Empress0205/Temporarly) | Customer delivery platform with phone-number auth, distance-priced orders and Google Places address search; 96 backend tests with CI | Django REST Framework · PostgreSQL · Flutter |
+| [**Jihudumie Logistics**](https://github.com/Empress0205/Jihudumie_logistic_app) | Customer delivery platform with phone-number auth, distance-priced orders and Google Places address search; 96 backend tests with CI | Django REST Framework · PostgreSQL · Flutter |
 | [**Semantic Notes Search**](https://github.com/Empress0205/semantic_search) | Notes app that searches by meaning using vector embeddings, groundwork for RAG | FastAPI · Sentence Transformers · ChromaDB · React |
 
 ## Tech stack
